@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.col-lg-3{
+    background: yellow;
+    text-align: center;
+    font-size: 30px;
+}
+.col-lg-3 h4{
+    color: rgb(235, 235, 241);
+    background: rgb(0, 0, 0);
+    font-size: 40px;
+}
+.col-lg-3 p{
+    background: cornflowerblue;
+    font-size: 22px;
+}
